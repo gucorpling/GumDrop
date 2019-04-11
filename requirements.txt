@@ -1,0 +1,11 @@
+nltk
+scikit-learn
+pandas
+numpy
+scipy
+xgboost
+tensorflow-gpu
+keras
+pytorch
+opencc-python-reimplemented
+hyperopt
